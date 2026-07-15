@@ -12,6 +12,7 @@
   ],
   "duration": 5,
   "prerequisites": [
+    "python-booleans",
     "numpy-zeros",
     "numpy-arange",
     "numpy-reshape",
