@@ -1,22 +1,26 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
-    "authors": [
-        "",
-        ""
-    ],
-    "tags": [
-        "",
-        ""
-    ],
-    "duration": 0,
-    "prerequisites": [
-        "",
-        ""
-    ],
-    "related": [
-        "",
-        ""
-    ]
+  "title": "Exercise: Python NumPy Array Construction and Reshaping",
+  "slug": "exercise-numpy-array-construction-and-reshaping",
+  "description": "Practise creating NumPy arrays with bool, zeros, arange, and reshape to match a required size and shape.",
+  "authors": [
+    "chris-cooling",
+    "giorgia-del-missier"
+  ],
+  "tags": [
+    "python",
+    "numpy"
+  ],
+  "duration": 10,
+  "prerequisites": [
+    "numpy-zeros",
+    "numpy-arange",
+    "numpy-reshape",
+    "numpy-arrays-with-multiple-dimensions"
+  ],
+  "related": [
+    "sample-solution-numpy-array-construction-and-reshaping"
+  ],
+  "python_packages": [
+    "numpy"
+  ]
 }
