@@ -39,6 +39,7 @@ Click below to see a sample solution.
 > b = np.arange(24).reshape([4, 3, 2])
 > print(b)
 > ```
+> In the cell above, note any initial array is created using `np.arange()` and then reshaped into a 3-D array using the `.reshape()` method.>
 >
 > Create a 3-D array containing every other value from 4 to 50 (inclusive):
 >
@@ -46,5 +47,3 @@ Click below to see a sample solution.
 > c = np.arange(4, 51, 2).reshape([4, 3, 2])
 > print(c)
 > ```
->
-> In the cell above, note any initial array is created using `np.arange()` and then reshaped into a 3-D array using the `.reshape()` method.
