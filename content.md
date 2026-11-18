@@ -10,3 +10,41 @@ import numpy as np
 
 # Write your code here
 ```
+
+# Sample Solution
+
+Click below to see a sample solution.
+
+>[!HIDDEN]
+>
+> Create an array containing three boolean values:
+> 
+>```py-cell
+> import numpy as np
+>
+> bools = np.array([True, False, True])
+> print(bools)
+> ```
+>
+> Create the zero-filled 3-D array with shape `(4, 3, 2)`:
+>
+> ```py-cell
+> a = np.zeros([4, 3, 2])
+> print(a)
+> ```
+> 
+> Create a 3-D array containing values from 0 to 23:
+>
+> ```py-cell
+> b = np.arange(24).reshape([4, 3, 2])
+> print(b)
+> ```
+>
+> Create a 3-D array containing every other value from 4 to 50 (inclusive):
+>
+> ```py-cell
+> c = np.arange(4, 51, 2).reshape([4, 3, 2])
+> print(c)
+> ```
+>
+> In the cell above, note any initial array is created using `np.arange()` and then reshaped into a 3-D array using the `.reshape()` method.

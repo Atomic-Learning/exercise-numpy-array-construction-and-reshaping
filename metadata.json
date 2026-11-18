@@ -10,7 +10,7 @@
     "python",
     "numpy"
   ],
-  "duration": 5,
+  "duration": 8,
   "prerequisites": [
     "python-booleans",
     "numpy-zeros",
@@ -19,7 +19,6 @@
     "numpy-arrays-with-multiple-dimensions"
   ],
   "related": [
-    "sample-solution-numpy-array-construction-and-reshaping"
   ],
   "python_packages": [
     "numpy"
